@@ -1,33 +1,36 @@
-Copyright (C) 2014 by Coinify
+oinify Bitcoin Payments ===
+Contributors: Coinify
+Tags: coinify,bitcoin,bitcoin payments
+Tested up to: WordPress 3.8.1, WooCommerce 2.1.9
+Stable tag: 1.1
+Requires at least: 3.8.1
+License: MIT License
+License URI: http://opensource.org/licenses/MIT
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Accept Bitcoin payments – get paid in dollars, euros and more in your bank account. Increase your margins by 3% compared to other payment methods.
 
-About
-=====
+== Description ==
+
+With Coinify Bitcoin payments you can accept Bitcoin payments from anywhere in the world with just a few clicks.
+* No setup fees.
+* No merchant transaction fees. Request 100 dollars, get paid 100 dollars.
+* No chargebacks.
+Coinify is the trusted payment provider to thousands of merchants across the world.
+
+== About ==
+
 + Coinify for WooCommerce.
 + Version 1.1
 
-System Requirements
-===================
+== Installation ==
+
+1. Install zip file using WordPress built-in Add New Plugin installer;
+2. Go to your WooCommerce Settings, and click the Checkout tab, find Coinify.
+3. In settings "Invoice API key" <- set your Coinify Invoice API key.
+4. In settings "IPN secret" <- set your Coinify Instant Payment Notification secret.
+
+== System Requirements ==
+
 + Curl PHP Extension
 + JSON Encode
-  
-Configuration Instructions
-==========================
-    1. Install zip file using WordPress built-in Add New Plugin installer;
 
-    2. Go to your WooCommerce Settings, and click the Checkout tab, find Coinify.
-  
-    3. In settings "Invoice API key" <- set your Coinify Invoice API key.
-    4. In settings "IPN secret" <- set your Coinify Instant Payment Notification secret.
-
-### Tested with:
-
-+ WordPress 3.8.1
-+ WooCommerce 2.1.9
