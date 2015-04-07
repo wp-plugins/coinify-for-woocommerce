@@ -1,4 +1,4 @@
-oinify Bitcoin Payments ===
+=== Coinify Bitcoin Payments ===
 Contributors: Coinify
 Tags: coinify,bitcoin,bitcoin payments
 Tested up to: WordPress 3.8.1, WooCommerce 2.1.9
