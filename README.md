@@ -12,10 +12,10 @@ Accept Bitcoin payments – get paid in dollars, euros and more in your bank acc
 == Description ==
 
 With Coinify Bitcoin payments you can accept Bitcoin payments from anywhere in the world with just a few clicks.
-* No setup fees.
-* No merchant transaction fees. Request 100 dollars, get paid 100 dollars.
-* No chargebacks.
-Coinify is the trusted payment provider to thousands of merchants across the world.
+<br>* No setup fees.
+<br>* No merchant transaction fees. Request 100 dollars, get paid 100 dollars.
+<br>* No chargebacks.
+<br>Coinify is the trusted payment provider to thousands of merchants across the world.
 
 == About ==
 
