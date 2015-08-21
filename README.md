@@ -1,7 +1,7 @@
 === Coinify Bitcoin Payments ===
 Contributors: Coinify
 Tags: coinify,bitcoin,bitcoin payments
-Tested up to: WordPress 3.8.1, WooCommerce 2.1.9
+Tested up to: WordPress 4.3, WooCommerce 2.4.5
 Stable tag: 1.1
 Requires at least: 3.8.1
 License: MIT License
